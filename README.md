@@ -60,6 +60,10 @@ Input　　    Output             Instruction
 a)	核心业务模块的单元测试
 b)	单元测试用例
 
+## 环境
+
+Java 8
+
 ## 开始：
 
 get the practice repository:
