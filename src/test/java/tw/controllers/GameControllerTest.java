@@ -1,7 +1,7 @@
 package tw.controllers;
 
 /**
- * Created by jxzhong on 2017/5/19.
+ * 在GameControllerTest文件中完成GameController中对应的单元测试
  */
 public class GameControllerTest {
 

@@ -1,7 +1,7 @@
 package tw.core;
 
 /**
- * Created by jxzhong on 2017/9/23.
+ * 在AnswerTest文件中完成Answer中对应的单元测试
  */
 public class AnswerTest {
 

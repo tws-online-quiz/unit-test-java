@@ -2,7 +2,7 @@ package tw.core;
 
 
 /**
- * Created by jxzhong on 2017/5/18.
+ * 在RandomIntGeneratorTest文件中完成RandomIntGenerator中对应的单元测试
  */
 public class RandomIntGeneratorTest {
 

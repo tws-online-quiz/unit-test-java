@@ -1,8 +1,9 @@
 package tw.core.generator;
 
 /**
- * Created by jxzhong on 2017/5/17.
+ * 在AnswerGeneratorTest文件中完成AnswerGenerator中对应的单元测试
  */
 public class AnswerGeneratorTest {
 
 }
+
