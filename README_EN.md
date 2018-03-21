@@ -78,7 +78,7 @@ Whindows:  gradlew.bat clean build 
 Test:
 ```
 Mac/Linux: ./gradlew clean test 
-Whindows:  gradlew.bat clean test.
+Whindows:  gradlew.bat clean test
 ```
 
 ## Learn Resourse(Chinese Version):
