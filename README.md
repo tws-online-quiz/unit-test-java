@@ -43,8 +43,8 @@ Input　　    Output             Instruction
 Mac/Linux: ./gradlew idea   
 Whindows:  gradlew.bat idea  
 ```
-- 在项目中`src/main`目录下的运行`Main.java`文件，查看游戏运行
-- 在项目中`src/test`目录下完成对应的单元测试
+- 在项目`src/main`目录下的=运行`Main.java`文件，查看游戏运行
+- 在项目`src/test`目录下完成对应的单元测试
 - 运行测试，在本地执行：
 ```
 Mac/Linux: ./gradlew clean test 
