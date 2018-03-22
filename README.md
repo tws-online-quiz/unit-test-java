@@ -12,6 +12,7 @@
 
 > 答案是1 2 3 4， 那么对于不同的输入，有如下的输出
  
+
 ```
 Input　　    Output             Instruction
 1 5 6 7      1A0B                 1 correct
@@ -44,7 +45,7 @@ Mac/Linux: ./gradlew idea   
 Whindows:  gradlew.bat idea  
 ```
 - 在项目`src/main`目录下运行`Main.java`文件，查看游戏运行
-- 在项目`src/test`目录下完成对应的单元测试
+- 在项目`src/test`目录下完成对应的所有单元测试
 - 运行测试，在本地执行：
 ```
 Mac/Linux: ./gradlew clean test 
