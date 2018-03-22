@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-./graldew build
-./graldew test
+./gradlew build
+./gradlew test
