@@ -27,36 +27,26 @@ Input　　    Output             Instruction
 答案在游戏开始时随机生成。输入只有6次机会，在每次猜测时，程序应给出当前猜测的结果，以及之前所有猜测的数字和结果以供玩家参考。输入界面为控制台（Console），以避免太多与问题无关的界面代码。
 输入时，用空格分隔数字。
 
-## 环境要求
-- Java 8
-
-## 如何开始：
-
-- 将题目clone到本地:
-```
- git clone 仓库地址
-```
-
-- 初始化项目，在本地执行:
-
-```
-Mac/Linux: ./gradlew idea   
-Whindows:  gradlew.bat idea  
-```
-- 在项目中`src/main`目录下的运行`Main.java`文件，查看游戏运行
-- 在项目中`src/test`目录下完成对应的单元测试
-- 运行测试，在本地执行：
-```
-Mac/Linux: ./gradlew clean test 
-Whindows:  gradlew.bat clean test
-```
-
-## 输出规范
+要求：
 - 设计和编写测试用例
 - 单元测试应涵盖所有核心业务逻辑
 - 使用Junit进行测试实现，Mockito可以在不同模块之间进行依赖隔离
 - 用小步骤进行单元测试重构
 - 为单元测试和方法命名有意义的名称
 - 代码通过小步骤提交并附上意义的评论
-- 提交github的仓库地址
 
+## 环境要求
+- Java 8
+
+## 如何开始
+
+- 克隆模版库
+- 在项目中`src/main`目录下的运行`Main.java`文件
+  - 出现`Guess Number Game, You have 6 chances to guess!`，说明项目启动成功
+- 在项目中`src/test`目录下完成对应的单元测试
+
+## 如何测试
+- 根目录下执行`./gradlew clean test`，查看测试结果
+
+## 输出规范
+- 完成需求的代码及测试
