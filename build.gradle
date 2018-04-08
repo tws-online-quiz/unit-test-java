@@ -26,6 +26,7 @@ jacocoTestReport {
 check.dependsOn jacocoTestReport
 // In this section you declare where to find the dependencies of your project
 repositories {
+    maven { url "http://ec2-54-222-235-15.cn-north-1.compute.amazonaws.com.cn:8081/repository/maven-central/" }
     // Use jcenter for resolving your dependencies.
     // You can declare any Maven/Ivy/file repository here.
     
